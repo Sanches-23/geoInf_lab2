@@ -1,10 +1,3 @@
-# def print_hi(name):
-#     print(f'Hi, {name}')
-#
-#
-# if __name__ == '__main__':
-#     print_hi('PyCharm')
-
 from osgeo import gdal
 from osgeo import osr
 import random
